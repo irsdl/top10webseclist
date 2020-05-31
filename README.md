@@ -5,7 +5,7 @@ This project includes items that were listed in Top 10 Web Hacking Techniques of
 
 As some of these links are really old, they might not be available anymore but https://web.archive.org/ may come in handy.
 
-**References
+# References
 
 [2006](http://jeremiahgrossman.blogspot.com/2006/12/top-10-web-hacks-of-2006.html) \
 [2007](http://jeremiahgrossman.blogspot.com/2008/01/top-ten-web-hacks-of-2007-official.html) \
