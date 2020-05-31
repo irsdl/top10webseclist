@@ -1,8 +1,8 @@
 # List of Top Ten Web Hacking Techniques (as seen on TV!)
 
-This project includes items that were listed in Top 10 Web Hacking Techniques of XXXX started by Jeremiah Grossman (@jeremiahg) (of WhiteHat Security at that time) and continued by James Kettle (@albinowax) (of PortSwigger).
+This project includes all links (not just top 10) that were listed in Top 10 Web Hacking Techniques since its begininng. Collecting this list was started by Jeremiah Grossman (@jeremiahg) and continued by James Kettle (@albinowax).
 
-As some of these links are really old, they might not be available anymore but https://web.archive.org/ may come in handy.
+As some of these links are really old, they might not be available anymore but https://web.archive.org/ can help.
 
 # References
 
