@@ -19,3 +19,4 @@ As some of these links are really old, they might not be available anymore but h
 [2016/17](https://portswigger.net/blog/top-10-web-hacking-techniques-of-2017) \
 [2018](https://portswigger.net/research/top-10-web-hacking-techniques-of-2018-nominations-open) \
 [2019](https://portswigger.net/research/top-10-web-hacking-techniques-of-2019-nominations-open) 
+[2020](https://portswigger.net/research/top-10-web-hacking-techniques-of-2020-nominations-open)
